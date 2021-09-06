@@ -1,0 +1,9 @@
+Instructions:
+
+1.Create a folder
+2.make sure the result.csv file is in the same folder as the ohlc.py file
+3.Install the required libraries via 
+pip install- r requirements.txt
+4.double click on the OHLC.py file to view the dashboard
+5.the required DashBoard will open
+6.select the symbol and chart type and click on view chart
